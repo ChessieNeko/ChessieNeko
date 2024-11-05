@@ -9,7 +9,7 @@ Me chamo Elizabeth Uzoegwu, tenho 24 anos e sou natural de São Paulo. Atualment
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/ChessieNeko?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
     <a href="https://github.com/ChessieNeko?tab=followers">
@@ -89,6 +89,14 @@ Me chamo Elizabeth Uzoegwu, tenho 24 anos e sou natural de São Paulo. Atualment
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Blender"
+    title="Blender" 
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" 
+/>          
 <br/>
 <br/>
 
@@ -109,5 +117,6 @@ Me chamo Elizabeth Uzoegwu, tenho 24 anos e sou natural de São Paulo. Atualment
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChessieNeko&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
+  
 
 </p>
